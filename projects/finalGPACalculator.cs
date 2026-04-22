@@ -95,4 +95,4 @@ Console.WriteLine($"{course2Name}\t\t{course2Grade}\t{course2Credit}");
 Console.WriteLine($"{course3Name}\t\t{course3Grade}\t{course3Credit}");
 Console.WriteLine($"{course4Name}\t{course4Grade}\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t{course5Credit}");
-Console.WriteLine($"\nFinal GPA:\t\t{gradePointAverage}");
+Console.WriteLine($"\nFinal GPA:\t\t{gradePointAverage:F2}");
