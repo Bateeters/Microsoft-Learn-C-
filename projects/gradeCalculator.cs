@@ -53,3 +53,15 @@ int jeong3 = 98;
 int jeong4 = 100;
 int jeong5 = 97;
 
+// initialize int variables for each student to store sums
+int sophiaSum = 0;
+int nicolasSum = 0;
+int zahirahSum = 0;
+int jeongSum = 0;
+
+// Setting up console output
+Console.WriteLine($"Student:\tGrade");
+Console.WriteLine($"Sophia:\t\t{sophiaSum}");
+Console.WriteLine($"Nicolas:\t{nicolasSum}");
+Console.WriteLine($"Zahirah:\t{zahirahSum}");
+Console.WriteLine($"Jeong:\t\t{jeongSum}");
