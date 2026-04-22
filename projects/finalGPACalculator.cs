@@ -67,3 +67,12 @@ int course2Grade = gradeB;
 int course3Grade = gradeB;
 int course4Grade = gradeB;
 int course5Grade = gradeA;
+
+// Set up console output
+Console.WriteLine($"Student: {studentName}\n");
+Console.WriteLine($"Course\t\t\tGrade\tCreditHours");
+Console.WriteLine($"{course1Name}\t\t{course1Grade}");
+Console.WriteLine($"{course2Name}\t\t{course2Grade}");
+Console.WriteLine($"{course3Name}\t\t{course3Grade}");
+Console.WriteLine($"{course4Name}\t{course4Grade}");
+Console.WriteLine($"{course5Name}\t\t{course5Grade}");
