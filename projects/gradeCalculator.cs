@@ -73,7 +73,7 @@ decimal zahirahScore = (decimal) zahirahSum / currentAssignments;
 decimal jeongScore = (decimal) jeongSum / currentAssignments;
 
 // Setting up console output
-Console.WriteLine($"Student:\tGrade");
+Console.WriteLine($"Student\t\tGrade\n");
 Console.WriteLine($"Sophia:\t\t{sophiaScore}\tA");
 Console.WriteLine($"Nicolas:\t{nicolasScore}\tB");
 Console.WriteLine($"Zahirah:\t{zahirahScore}\tB");
