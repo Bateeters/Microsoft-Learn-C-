@@ -49,7 +49,7 @@ string course4Name = "Computer Science I";
 string course5Name = "Psychology 101";
 
 int course1Credit = 3;
-int course2Creadit = 3;
+int course2Credit = 3;
 int course3Credit = 4;
 int course4Credit = 4;
 int course5Credit = 3;
@@ -71,8 +71,8 @@ int course5Grade = gradeA;
 // Set up console output
 Console.WriteLine($"Student: {studentName}\n");
 Console.WriteLine($"Course\t\t\tGrade\tCreditHours");
-Console.WriteLine($"{course1Name}\t\t{course1Grade}");
-Console.WriteLine($"{course2Name}\t\t{course2Grade}");
-Console.WriteLine($"{course3Name}\t\t{course3Grade}");
-Console.WriteLine($"{course4Name}\t{course4Grade}");
-Console.WriteLine($"{course5Name}\t\t{course5Grade}");
+Console.WriteLine($"{course1Name}\t\t{course1Grade}\t{course1Credit}");
+Console.WriteLine($"{course2Name}\t\t{course2Grade}\t{course2Credit}");
+Console.WriteLine($"{course3Name}\t\t{course3Grade}\t{course3Credit}");
+Console.WriteLine($"{course4Name}\t{course4Grade}\t{course4Credit}");
+Console.WriteLine($"{course5Name}\t\t{course5Grade}\t{course5Credit}");
