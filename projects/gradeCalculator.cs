@@ -15,6 +15,13 @@ Nicolas: 80, 83, 82, 88, 85
 Zahirah:   84, 96, 73, 85, 79
 Jeong:  90, 92, 98, 100, 97
 
+teacher's grading scale:
+97 - 100    A+
+93 - 96     A
+90 - 92     A-
+87 - 89     B+
+83 - 86     B
+
 The teacher requires that the calculated grades for each student are displayed as follows:
 
 Student     Grade
@@ -67,7 +74,7 @@ decimal jeongScore = (decimal) jeongSum / currentAssignments;
 
 // Setting up console output
 Console.WriteLine($"Student:\tGrade");
-Console.WriteLine($"Sophia:\t\t{sophiaScore}");
-Console.WriteLine($"Nicolas:\t{nicolasScore}");
-Console.WriteLine($"Zahirah:\t{zahirahScore}");
-Console.WriteLine($"Jeong:\t\t{jeongScore}");
+Console.WriteLine($"Sophia:\t\t{sophiaScore}\tA");
+Console.WriteLine($"Nicolas:\t{nicolasScore}\tB");
+Console.WriteLine($"Zahirah:\t{zahirahScore}\tB");
+Console.WriteLine($"Jeong:\t\t{jeongScore}\tA");
