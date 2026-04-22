@@ -13,9 +13,18 @@ To calculate the GPA:
 - Do this for each course, then add these results together.
 - Divide the resulting sum by the total number of credit hours.
 
+Student's grades for each course:
+
+Course			    Grade		
+English 101		     A
+Algebra 101		     B
+Biology 101		     B
+Computer Science I	 B
+Psychology 101	     A
+
 You're provided with the following sample of a student's course information and GPA:
 
-Output
+Expected Output
 
 Student: Sophia Johnson
 
@@ -44,3 +53,17 @@ int course2Creadit = 3;
 int course3Credit = 4;
 int course4Credit = 4;
 int course5Credit = 3;
+
+// Initializing grade scale variables
+int gradeA = 4;
+int gradeB = 3;
+int gradeC = 2;
+int gradeD = 1;
+int gradeF = 0;
+
+// Initializing student's course grades
+int course1Grade = gradeA;
+int course2Grade = gradeB;
+int course3Grade = gradeB;
+int course4Grade = gradeB;
+int course5Grade = gradeA;
