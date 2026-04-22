@@ -68,6 +68,14 @@ int course3Grade = gradeB;
 int course4Grade = gradeB;
 int course5Grade = gradeA;
 
+// Initialize variable to store total credit hours
+int totalCreditHours = 0;
+totalCreditHours += course1Credit;
+totalCreditHours += course2Credit;
+totalCreditHours += course3Credit;
+totalCreditHours += course4Credit;
+totalCreditHours += course5Credit;
+
 // Set up console output
 Console.WriteLine($"Student: {studentName}\n");
 Console.WriteLine($"Course\t\t\tGrade\tCreditHours");
@@ -76,3 +84,4 @@ Console.WriteLine($"{course2Name}\t\t{course2Grade}\t{course2Credit}");
 Console.WriteLine($"{course3Name}\t\t{course3Grade}\t{course3Credit}");
 Console.WriteLine($"{course4Name}\t{course4Grade}\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t{course5Credit}");
+Console.WriteLine($"\nFinal GPA:\t\t");
