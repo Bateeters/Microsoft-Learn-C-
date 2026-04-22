@@ -59,9 +59,15 @@ int nicolasSum = nicolas1 + nicolas2 + nicolas3 + nicolas4 + nicolas5;
 int zahirahSum = zahirah1 + zahirah2 + zahirah3 + zahirah4 + zahirah5;
 int jeongSum = jeong1 + jeong2 + jeong3 + jeong4 + jeong5;
 
+// Initializing average score variables
+decimal sophiaScore = (decimal) sophiaSum / currentAssignments;
+decimal nicolasScore = (decimal) nicolasSum / currentAssignments;
+decimal zahirahScore = (decimal) zahirahSum / currentAssignments;
+decimal jeongScore = (decimal) jeongSum / currentAssignments;
+
 // Setting up console output
 Console.WriteLine($"Student:\tGrade");
-Console.WriteLine($"Sophia:\t\t{sophiaSum}");
-Console.WriteLine($"Nicolas:\t{nicolasSum}");
-Console.WriteLine($"Zahirah:\t{zahirahSum}");
-Console.WriteLine($"Jeong:\t\t{jeongSum}");
+Console.WriteLine($"Sophia:\t\t{sophiaScore}");
+Console.WriteLine($"Nicolas:\t{nicolasScore}");
+Console.WriteLine($"Zahirah:\t{zahirahScore}");
+Console.WriteLine($"Jeong:\t\t{jeongScore}");
