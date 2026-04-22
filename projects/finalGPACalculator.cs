@@ -76,6 +76,17 @@ totalCreditHours += course3Credit;
 totalCreditHours += course4Credit;
 totalCreditHours += course5Credit;
 
+// Initialize variable to store total grade points
+int totalGradePoints = 0;
+totalGradePoints += course1Credit * course1Grade;
+totalGradePoints += course2Credit * course2Grade;
+totalGradePoints += course3Credit * course3Grade;
+totalGradePoints += course4Credit * course4Grade;
+totalGradePoints += course5Credit * course5Grade;
+
+// Initialize GPA variable
+decimal gradePointAverage = (decimal) totalGradePoints/totalCreditHours;
+
 // Set up console output
 Console.WriteLine($"Student: {studentName}\n");
 Console.WriteLine($"Course\t\t\tGrade\tCreditHours");
@@ -84,4 +95,4 @@ Console.WriteLine($"{course2Name}\t\t{course2Grade}\t{course2Credit}");
 Console.WriteLine($"{course3Name}\t\t{course3Grade}\t{course3Credit}");
 Console.WriteLine($"{course4Name}\t{course4Grade}\t{course4Credit}");
 Console.WriteLine($"{course5Name}\t\t{course5Grade}\t{course5Credit}");
-Console.WriteLine($"\nFinal GPA:\t\t");
+Console.WriteLine($"\nFinal GPA:\t\t{gradePointAverage}");
