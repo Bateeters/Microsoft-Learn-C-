@@ -20,3 +20,20 @@ Console.WriteLine(number);
 Console.WriteLine();
 Console.WriteLine(text);
 // Each WriteLine() being called here is a separate overloaded version of the WriteLine() method.
+
+
+
+Random dice2 = new();
+
+// No upper or lower boundary, can return any value ranging from 0 to 2,147,483,647 (the max value an int can store).
+int roll1 = dice2.Next();
+
+// Only one parameter means you define the upper boundary. returns anything from 0 to 100.
+int roll2 = dice2.Next(101);
+
+// Both lower and upper boundaries are defined, returns a value from 50 to 100.
+int roll3 = dice2.Next(50,101);
+
+Console.WriteLine($"First roll: {roll1}");
+Console.WriteLine($"Second roll: {roll2}");
+Console.WriteLine($"Third roll: {roll3}");
