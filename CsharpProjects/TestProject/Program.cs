@@ -8,3 +8,15 @@ int roll = dice.Next(1,7);
 
 // Use Console.WriteLine() method to print the value of roll.
 Console.WriteLine(roll);
+
+
+
+
+// Overloaded methods
+int number = 7;
+string text = "seven";
+
+Console.WriteLine(number);
+Console.WriteLine();
+Console.WriteLine(text);
+// Each WriteLine() being called here is a separate overloaded version of the WriteLine() method.
