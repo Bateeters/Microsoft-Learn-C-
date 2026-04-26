@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\bin\Debug\net10.0\RenewalRateProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\bin\Debug\net10.0\RenewalRateProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\bin\Debug\net10.0\RenewalRateProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\bin\Debug\net10.0\RenewalRateProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\bin\Debug\net10.0\RenewalRateProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\refint\RenewalRateProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\RenewalRateProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RenewalRateProject\obj\Debug\net10.0\ref\RenewalRateProject.dll
