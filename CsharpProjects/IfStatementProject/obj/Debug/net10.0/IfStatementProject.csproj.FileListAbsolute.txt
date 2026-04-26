@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\bin\Debug\net10.0\IfStatementProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\bin\Debug\net10.0\IfStatementProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\bin\Debug\net10.0\IfStatementProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\bin\Debug\net10.0\IfStatementProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\bin\Debug\net10.0\IfStatementProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\refint\IfStatementProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\IfStatementProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\IfStatementProject\obj\Debug\net10.0\ref\IfStatementProject.dll
