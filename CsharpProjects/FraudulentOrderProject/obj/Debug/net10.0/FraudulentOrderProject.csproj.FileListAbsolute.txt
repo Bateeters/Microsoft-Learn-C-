@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\bin\Debug\net10.0\FraudulentOrderProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\bin\Debug\net10.0\FraudulentOrderProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\bin\Debug\net10.0\FraudulentOrderProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\bin\Debug\net10.0\FraudulentOrderProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\bin\Debug\net10.0\FraudulentOrderProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\refint\FraudulentOrderProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\FraudulentOrderProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\FraudulentOrderProject\obj\Debug\net10.0\ref\FraudulentOrderProject.dll
