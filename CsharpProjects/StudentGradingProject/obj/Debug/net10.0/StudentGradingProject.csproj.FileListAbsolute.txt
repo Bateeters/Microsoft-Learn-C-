@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\bin\Debug\net10.0\StudentGradingProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\bin\Debug\net10.0\StudentGradingProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\bin\Debug\net10.0\StudentGradingProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\bin\Debug\net10.0\StudentGradingProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\bin\Debug\net10.0\StudentGradingProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\refint\StudentGradingProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\StudentGradingProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\StudentGradingProject\obj\Debug\net10.0\ref\StudentGradingProject.dll
