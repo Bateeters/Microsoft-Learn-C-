@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\bin\Debug\net10.0\RoleBasedAccessProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\bin\Debug\net10.0\RoleBasedAccessProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\bin\Debug\net10.0\RoleBasedAccessProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\bin\Debug\net10.0\RoleBasedAccessProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\bin\Debug\net10.0\RoleBasedAccessProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\refint\RoleBasedAccessProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\RoleBasedAccessProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RoleBasedAccessProject\obj\Debug\net10.0\ref\RoleBasedAccessProject.dll
