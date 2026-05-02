@@ -12,10 +12,13 @@ if (flag)
 */
 
 // This works because "value" is defined in the same scope as the Console.WriteLine statements
-int value = 10;
+int value = 0;
+
 if (flag)
 {
     Console.WriteLine($"Inside if block: {value}");
 }
 
+// value is now updated after the if statement runs. It'll prints the updated value for the 2nd line
+value = 10;
 Console.WriteLine($"Outside if block: {value}");
