@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinFlipProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd874bec6e9e5dba7c52b4296e391f2905ad5b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d705f9c242646ce3b960d23ca04d152c280163f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinFlipProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinFlipProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

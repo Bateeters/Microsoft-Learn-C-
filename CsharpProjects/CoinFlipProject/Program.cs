@@ -11,3 +11,8 @@ Your code should be easy to read, but with as few lines as possible.
 
 You should be able to accomplish the desired result in three lines of code.
 */
+
+Random coin = new();
+int result = coin.Next(2);
+
+Console.WriteLine(result == 0 ? "heads" : "tails");
