@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoleBasedAccessProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+62f730959db1d053ded60a2a959e9c7c458350d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d4f40a56639be295ffe66b278e8b0a6d5211bd8")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoleBasedAccessProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoleBasedAccessProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

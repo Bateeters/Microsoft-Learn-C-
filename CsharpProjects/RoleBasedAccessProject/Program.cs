@@ -43,26 +43,32 @@ You do not have sufficient privileges.
 Update your Program.cs code to accommodate each of the business rules.
 */
 
-string permission = "FooBar";
-int level = 56;
+string permission = "Foobar";
+int level = 12;
 
-if (permission == "Admin" && level > 55)
+if (permission == "Admin")
 {
-    Console.WriteLine("Welcome, Super Admin user.");
+    if (level > 55)
+    {
+        Console.WriteLine("Welcome, Super Admin user.");
+    }
+    else
+    {
+        Console.WriteLine("Welcome, Admin user.");    
+    }
 }
-else if (permission == "Admin" && level <= 55)
+else if (permission == "Manager")
 {
-    Console.WriteLine("Welcome, Admin user.");
+    if (level >= 20)
+    {
+        Console.WriteLine("Contact an Admin for access.");  
+    }
+    else
+    {
+        Console.WriteLine("You do not have sufficient privileges.");  
+    }
 }
-else if (permission == "Manager" && level >= 20)
-{
-    Console.WriteLine("Contact an Admin for access.");
-}
-else if (permission == "Manager" && level < 20)
-{
-    Console.WriteLine("You do not have sufficient privileges.");
-}
-else if (permission != "Admin" || permission != "Manager")
+else
 {
     Console.WriteLine("You do not have sufficient privileges.");
 }
