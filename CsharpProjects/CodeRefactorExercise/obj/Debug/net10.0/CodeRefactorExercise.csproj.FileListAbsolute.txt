@@ -1,0 +1,5 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\coderefactorexercise\obj\Debug\net10.0\CodeRefactorExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\coderefactorexercise\obj\Debug\net10.0\CodeRefactorExercise.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\coderefactorexercise\obj\Debug\net10.0\CodeRefactorExercise.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\coderefactorexercise\obj\Debug\net10.0\CodeRefactorExercise.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\coderefactorexercise\obj\Debug\net10.0\CodeRefactorExercise.sourcelink.json
