@@ -60,15 +60,16 @@ foreach (string name in studentNames)
         studentScores = loganScores;
 
     int sumAssignmentScores = 0;
+    int avgExtraCreditScores = 0;
 
     decimal currentStudentGrade = 0;
 
     int gradedAssignments = 0;
 
-    int currentStudentExamScore = 0;
+    decimal currentStudentExamScore = 0;
 
     int currentStudentExtraCredit = 0;
-    int currentStudentECPoints = 0;
+    decimal currentStudentECPoints = 0;
 
     /* 
     the inner foreach loop sums assignment scores
@@ -79,13 +80,27 @@ foreach (string name in studentNames)
         gradedAssignments += 1;
 
         if (gradedAssignments <= examAssignments)
+        {
             sumAssignmentScores += score;
-
+            currentStudentExamScore += score;
+        }
         else
+        {
             sumAssignmentScores += score / 10;
+            currentStudentExtraCredit += score;
+        }
+
+        if (gradedAssignments == studentScores.Length)
+        {
+            if (currentStudentExtraCredit > 0)
+                avgExtraCreditScores = currentStudentExtraCredit / (gradedAssignments - examAssignments);
+        }
+
+        currentStudentECPoints = ((decimal)currentStudentExtraCredit / 10) / examAssignments;
     }
 
-    currentStudentGrade = (decimal)(sumAssignmentScores) / examAssignments;
+    currentStudentExamScore = currentStudentExamScore / examAssignments;
+    currentStudentGrade = currentStudentExamScore + currentStudentECPoints;
 
     if (currentStudentGrade >= 97)
         currentStudentLetterGrade = "A+";
@@ -129,7 +144,7 @@ foreach (string name in studentNames)
     // Student         Grade
     // Sophia:         92.2    A-
     
-    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{currentStudentExtraCredit} ({currentStudentECPoints} pts)");
+    Console.WriteLine($"{currentStudent}\t\t{currentStudentExamScore}\t\t{currentStudentGrade}\t{currentStudentLetterGrade}\t{avgExtraCreditScores} ({currentStudentECPoints} pts)");
 }
 
 // required for running in VS Code (keeps the Output windows open to view results)
