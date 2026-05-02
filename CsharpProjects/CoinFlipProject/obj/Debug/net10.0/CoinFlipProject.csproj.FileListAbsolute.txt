@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\bin\Debug\net10.0\CoinFlipProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\bin\Debug\net10.0\CoinFlipProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\bin\Debug\net10.0\CoinFlipProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\bin\Debug\net10.0\CoinFlipProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\bin\Debug\net10.0\CoinFlipProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\refint\CoinFlipProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\CoinFlipProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\CoinFlipProject\obj\Debug\net10.0\ref\CoinFlipProject.dll
