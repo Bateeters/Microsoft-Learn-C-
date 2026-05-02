@@ -36,7 +36,16 @@ Console.WriteLine(pangram.Contains("fox"));
 Console.WriteLine(pangram.Contains("cow"));
 */
 
+/*
 // The Not Operator
 string pangram ="The quick brown fox jumps over the lazy dog.";
 Console.WriteLine(!pangram.Contains("fox"));
 Console.WriteLine(!pangram.Contains("cow"));
+*/
+
+// Conditional operators
+int saleAmount = 1001;
+int discount = saleAmount > 1000 ? 100 : 50;
+Console.WriteLine($"Discount: {discount}");
+
+
