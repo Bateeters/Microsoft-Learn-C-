@@ -11,6 +11,7 @@ if (flag)
 // Console.WriteLine(value);
 */
 
+// This works because "value" is defined in the same scope as the Console.WriteLine statements
 int value = 10;
 if (flag)
 {
