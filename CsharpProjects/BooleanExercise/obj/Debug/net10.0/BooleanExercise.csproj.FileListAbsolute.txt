@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\bin\Debug\net10.0\BooleanExercise.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\bin\Debug\net10.0\BooleanExercise.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\bin\Debug\net10.0\BooleanExercise.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\bin\Debug\net10.0\BooleanExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\bin\Debug\net10.0\BooleanExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\refint\BooleanExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\BooleanExercise.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\BooleanExercise\obj\Debug\net10.0\ref\BooleanExercise.dll
