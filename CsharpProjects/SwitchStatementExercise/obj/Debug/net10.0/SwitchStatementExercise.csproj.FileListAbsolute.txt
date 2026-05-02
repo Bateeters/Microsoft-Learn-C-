@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\bin\Debug\net10.0\SwitchStatementExercise.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\bin\Debug\net10.0\SwitchStatementExercise.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\bin\Debug\net10.0\SwitchStatementExercise.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\bin\Debug\net10.0\SwitchStatementExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\bin\Debug\net10.0\SwitchStatementExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\refint\SwitchStatementExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\SwitchStatementExercise.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\switchstatementexercise\obj\Debug\net10.0\ref\SwitchStatementExercise.dll
