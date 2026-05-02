@@ -29,7 +29,14 @@ Console.WriteLine(1 >= 1);
 Console.WriteLine(1 <= 1);
 */
 
+/*
 // Methods that return booleans
 string pangram ="The quick brown fox jumps over the lazy dog.";
 Console.WriteLine(pangram.Contains("fox"));
 Console.WriteLine(pangram.Contains("cow"));
+*/
+
+// The Not Operator
+string pangram ="The quick brown fox jumps over the lazy dog.";
+Console.WriteLine(!pangram.Contains("fox"));
+Console.WriteLine(!pangram.Contains("cow"));
