@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\bin\Debug\net10.0\VariableScopeExercise.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\bin\Debug\net10.0\VariableScopeExercise.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\bin\Debug\net10.0\VariableScopeExercise.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\bin\Debug\net10.0\VariableScopeExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\bin\Debug\net10.0\VariableScopeExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\refint\VariableScopeExercise.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\VariableScopeExercise.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\VariableScopeExercise\obj\Debug\net10.0\ref\VariableScopeExercise.dll
