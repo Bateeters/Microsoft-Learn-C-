@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\bin\Debug\net10.0\GradingFeatureUpdate.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\bin\Debug\net10.0\GradingFeatureUpdate.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\bin\Debug\net10.0\GradingFeatureUpdate.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\bin\Debug\net10.0\GradingFeatureUpdate.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\bin\Debug\net10.0\GradingFeatureUpdate.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\refint\GradingFeatureUpdate.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\GradingFeatureUpdate.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\GradingFeatureUpdate\obj\Debug\net10.0\ref\GradingFeatureUpdate.dll
