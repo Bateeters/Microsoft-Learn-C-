@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\IfelseToSwitchExercise\\IfelseToSwitchExercise.csproj": {}
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\ifelsetoswitchexercise\\IfelseToSwitchExercise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\IfelseToSwitchExercise\\IfelseToSwitchExercise.csproj": {
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\ifelsetoswitchexercise\\IfelseToSwitchExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\IfelseToSwitchExercise\\IfelseToSwitchExercise.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\ifelsetoswitchexercise\\IfelseToSwitchExercise.csproj",
         "projectName": "IfelseToSwitchExercise",
-        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\IfelseToSwitchExercise\\IfelseToSwitchExercise.csproj",
+        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\ifelsetoswitchexercise\\IfelseToSwitchExercise.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\IfelseToSwitchExercise\\obj\\",
+        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\CsharpProjects\\ifelsetoswitchexercise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
