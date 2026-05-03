@@ -44,3 +44,16 @@ Output
 We only show the first 22 values, but your output should continue to 100. As you can see, the number 15 
 is divisible by both 3 and 5, so we print FizzBuzz next to that number.
 */
+
+
+for (int i = 1; i <= 100; i++)
+{
+    if (i % 3 == 0 && i % 5 == 0)
+        Console.WriteLine($"{i} - FizzBuzz");
+    else if (i % 3 == 0)
+        Console.WriteLine($"{i} - Fizz");
+    else if (i % 5 == 0)
+        Console.WriteLine($"{i} - Buzz");
+    else
+        Console.WriteLine(i);
+}
