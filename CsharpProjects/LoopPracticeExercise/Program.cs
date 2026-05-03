@@ -26,3 +26,10 @@ for (int i = 0; i < 10; i++)
     if (i == 7) break;
 }
 */
+
+// Looping through Array
+string[] names = { "Alex", "Eddie", "David", "Michael" };
+for (int i = names.Length - 1; i >= 0; i--) // Reverse loop through "names"
+{
+    Console.WriteLine(names[i]);
+}
