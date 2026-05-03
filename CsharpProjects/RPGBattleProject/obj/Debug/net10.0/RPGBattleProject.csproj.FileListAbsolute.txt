@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\bin\Debug\net10.0\RPGBattleProject.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\bin\Debug\net10.0\RPGBattleProject.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\bin\Debug\net10.0\RPGBattleProject.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\bin\Debug\net10.0\RPGBattleProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\bin\Debug\net10.0\RPGBattleProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\refint\RPGBattleProject.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\RPGBattleProject.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\RPGBattleProject\obj\Debug\net10.0\ref\RPGBattleProject.dll

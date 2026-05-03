@@ -24,3 +24,23 @@ Run your application and verify that your output meets the requirements.
 Since the code uses random numbers and the outcome is different each time, your results are different 
 than the output displayed above. However, you can use this as an example of the output your code should generate.
 */
+
+Random damage = new();
+int heroHP = 10;
+int monsterHP = 10;
+
+do
+{
+    int hit = damage.Next(1, 11);
+    monsterHP -= hit;
+    Console.WriteLine($"Monster was damaged and lost {hit} health and now has {monsterHP} health.");
+
+    if (monsterHP <= 0) continue;
+
+    hit = damage.Next(1, 11);
+    heroHP -= hit;
+    Console.WriteLine($"Hero was damaged and lost {hit} health and now has {heroHP} health.");
+
+} while (heroHP > 0 && monsterHP > 0);
+
+Console.WriteLine(heroHP > monsterHP ? "Hero wins!" : "Monster wins!");
