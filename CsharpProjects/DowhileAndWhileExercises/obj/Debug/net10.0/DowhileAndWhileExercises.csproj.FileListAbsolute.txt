@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\bin\Debug\net10.0\DowhileAndWhileExercises.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\bin\Debug\net10.0\DowhileAndWhileExercises.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\bin\Debug\net10.0\DowhileAndWhileExercises.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\bin\Debug\net10.0\DowhileAndWhileExercises.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\bin\Debug\net10.0\DowhileAndWhileExercises.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\refint\DowhileAndWhileExercises.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\DowhileAndWhileExercises.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\CsharpProjects\DowhileAndWhileExercises\obj\Debug\net10.0\ref\DowhileAndWhileExercises.dll
