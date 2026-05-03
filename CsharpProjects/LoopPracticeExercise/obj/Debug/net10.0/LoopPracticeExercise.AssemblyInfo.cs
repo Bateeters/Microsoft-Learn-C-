@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LoopPracticeExercise")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+405b8e5f531c8cfa4d7387ee9032e777e0bc54f1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+41bcbe2560074274cb33e4f06e8f26a43d1a482d")]
 [assembly: System.Reflection.AssemblyProductAttribute("LoopPracticeExercise")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LoopPracticeExercise")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

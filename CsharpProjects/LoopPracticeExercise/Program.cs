@@ -38,6 +38,7 @@ for (int i = names.Length - 1; i >= 0; i--) // Reverse loop through "names"
 
 /*
 // foreach statement limitation example
+string[] names = { "Alex", "Eddie", "David", "Michael" };
 foreach (var name in names)
 {
     // Can't do this:
@@ -46,9 +47,12 @@ foreach (var name in names)
 */
 
 // but we can do it using a for loop
+string[] names = { "Alex", "Eddie", "David", "Michael" };
 for (int i = 0; i < names.Length; i++)
 {
-    if (names[i] == "David") names[i] = "Sammy";
+    if (names[i] == "David") 
+        names[i] = "Sammy";
 }
 
-foreach (var name in names) Console.WriteLine(name);
+foreach (var name in names)
+    Console.WriteLine(name);
