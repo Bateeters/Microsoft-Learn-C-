@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DowhileAndWhileExercises")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f940e5ae41fa67214a208e96d7e37b6fa8ff24d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a74748578b98e3e92f2baaddc827d63ae1d03fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("DowhileAndWhileExercises")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DowhileAndWhileExercises")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

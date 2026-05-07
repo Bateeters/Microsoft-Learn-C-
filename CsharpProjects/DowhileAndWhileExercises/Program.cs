@@ -147,3 +147,23 @@ Output
 */
 
 string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+
+// SOLUTION
+int periodLocation;
+
+for (int i = 0; i < myStrings.Length; i++)
+{
+    periodLocation = myStrings[i].IndexOf(".");
+    string storageString = myStrings[i];
+
+    while (periodLocation != -1)
+    {
+        Console.WriteLine(storageString.Substring(0, periodLocation));
+        storageString = storageString.Remove(0,periodLocation+2);
+
+        periodLocation = storageString.IndexOf(".");
+
+    }
+
+    Console.WriteLine(storageString);
+}
