@@ -80,6 +80,9 @@ Output
     Administrator
     Your input value (Administrator) has been accepted.
 */
+
+/*
+// SOLUTION
 string? userRole;
 string userCompareValue;
 bool validRole = false;
@@ -94,7 +97,7 @@ do
 
     if (userCompareValue != "administrator" && userCompareValue != "manager" && userCompareValue != "user")
     {
-        Console.WriteLine($"The role name that you entered, {userRole} is not valid. Enter your role name (Administrator, Manager, or User");
+        Console.WriteLine($"The role name that you entered, \"{userRole}\" is not valid. Enter your role name (Administrator, Manager, or User");
     }
     else
     {
@@ -103,4 +106,44 @@ do
 } while (validRole == false);
 
 Console.WriteLine($"Your input value ({userRole}) has been accepted.");
+*/
 
+/*
+Code project 3
+
+Write code that processes the contents of a string array
+
+your solution must use the following string array to represent the input to your coding logic:
+
+Starting code:
+
+    string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
+
+
+Your solution must declare an integer variable named periodLocation that can be used to hold the location of the period character within a string.
+
+Your solution must include an outer foreach or for loop that can be used to process each string element in the array. The string variable that 
+you'll process inside the loops should be named myString.
+
+In the outer loop, your solution must use the IndexOf() method of the String class to get the location of the first period character in the 
+myString variable. The method call should be similar to: myString.IndexOf("."). If there's no period character in the string, a value of -1 will be returned.
+
+
+Your solution must include an inner do-while or while loop that can be used to process the myString variable.
+    In the inner loop, your solution must extract and display (write to the console) each sentence that is contained in each of the strings that are processed.
+    In the inner loop, your solution must not display the period character.
+    In the inner loop, your solution must use the Remove(), Substring(), and TrimStart() methods to process the string information.
+
+
+Run your application and verify that your output meets the requirements.
+
+If your code logic works correctly, your output should look similar to the following:
+
+Output
+    I like pizza
+    I like roast chicken
+    I like salad
+    I like all three of the menu choices
+*/
+
+string[] myStrings = new string[2] { "I like pizza. I like roast chicken. I like salad", "I like all three of the menu choices" };
