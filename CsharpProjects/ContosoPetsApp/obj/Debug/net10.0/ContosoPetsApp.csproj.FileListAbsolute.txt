@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\bin\Debug\net10.0\ContosoPetsApp.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\bin\Debug\net10.0\ContosoPetsApp.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\bin\Debug\net10.0\ContosoPetsApp.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\bin\Debug\net10.0\ContosoPetsApp.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\bin\Debug\net10.0\ContosoPetsApp.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\refint\ContosoPetsApp.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ContosoPetsApp.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\contosopetsapp\obj\Debug\net10.0\ref\ContosoPetsApp.dll

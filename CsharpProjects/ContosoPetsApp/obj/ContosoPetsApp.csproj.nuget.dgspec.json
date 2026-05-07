@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\ContosoPetsApp\\ContosoPetsApp.csproj": {}
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\contosopetsapp\\ContosoPetsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\ContosoPetsApp\\ContosoPetsApp.csproj": {
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\contosopetsapp\\ContosoPetsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\ContosoPetsApp\\ContosoPetsApp.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\contosopetsapp\\ContosoPetsApp.csproj",
         "projectName": "ContosoPetsApp",
-        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\ContosoPetsApp\\ContosoPetsApp.csproj",
+        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\contosopetsapp\\ContosoPetsApp.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\ContosoPetsApp\\obj\\",
+        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\contosopetsapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
