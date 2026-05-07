@@ -190,27 +190,59 @@ do
     switch(menuSelection)
     {
         case "1":
+            // List all of our current pet information
+            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "2":
+            // List a new animal friend to the ourAnimals array
+            Console.WriteLine("this app feature is coming soon - please check back to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "3":
+            // Ensure animal ages and physical descriptions are complete
+            Console.WriteLine("Challenge Project - please check back soon to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "4":
+            // Ensure animal nicknames and personality are complete
+            Console.WriteLine("Challenge Project - Please check back soon to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "5":
+            // Change animal's age
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "6":
+            // Update an animals personality
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "7":
+            // Specifically show Cats only
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         case "8":
+            // Specifically show Dogs only
+            Console.WriteLine("UNDER CONSTRUCTION - please check back next month to see progress.");
+            Console.WriteLine("Press the Enter key to continue.");
+            readResult = Console.ReadLine();
             break;
 
         default:
