@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\bin\Debug\net10.0\FloatingPointType.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\bin\Debug\net10.0\FloatingPointType.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\bin\Debug\net10.0\FloatingPointType.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\bin\Debug\net10.0\FloatingPointType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\bin\Debug\net10.0\FloatingPointType.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\refint\FloatingPointType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\FloatingPointType.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\floatingpointtype\obj\Debug\net10.0\ref\FloatingPointType.dll

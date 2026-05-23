@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\FloatingPointType\\FloatingPointType.csproj": {}
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\floatingpointtype\\FloatingPointType.csproj": {}
   },
   "projects": {
-    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\FloatingPointType\\FloatingPointType.csproj": {
+    "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\floatingpointtype\\FloatingPointType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\FloatingPointType\\FloatingPointType.csproj",
+        "projectUniqueName": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\floatingpointtype\\FloatingPointType.csproj",
         "projectName": "FloatingPointType",
-        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\FloatingPointType\\FloatingPointType.csproj",
+        "projectPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\floatingpointtype\\FloatingPointType.csproj",
         "packagesPath": "C:\\Users\\brian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\FloatingPointType\\obj\\",
+        "outputPath": "C:\\Users\\brian\\OneDrive\\Desktop\\Microsoft Learn C#\\csharpprojects\\floatingpointtype\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\brian\\AppData\\Roaming\\NuGet\\NuGet.Config",
