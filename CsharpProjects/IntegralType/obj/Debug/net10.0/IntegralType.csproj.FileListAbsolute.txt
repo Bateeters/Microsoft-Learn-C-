@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\bin\Debug\net10.0\IntegralType.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\bin\Debug\net10.0\IntegralType.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\bin\Debug\net10.0\IntegralType.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\bin\Debug\net10.0\IntegralType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\bin\Debug\net10.0\IntegralType.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\refint\IntegralType.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\IntegralType.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\integraltype\obj\Debug\net10.0\ref\IntegralType.dll
