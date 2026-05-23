@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\bin\Debug\net10.0\ReferenceTypes.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\bin\Debug\net10.0\ReferenceTypes.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\bin\Debug\net10.0\ReferenceTypes.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\bin\Debug\net10.0\ReferenceTypes.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\bin\Debug\net10.0\ReferenceTypes.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\refint\ReferenceTypes.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ReferenceTypes.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\referencetypes\obj\Debug\net10.0\ref\ReferenceTypes.dll
