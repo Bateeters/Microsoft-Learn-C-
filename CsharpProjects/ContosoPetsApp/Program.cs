@@ -392,8 +392,39 @@ do
 
                     ourAnimals[i, 2] = "Age: " + animalAge;
                 }
-            }
 
+                if (ourAnimals[i, 0] != "ID #: " && ourAnimals[i, 4] == "Physical description: ")
+                {
+                    bool validEntry = false;
+
+                    // update the pet's physical description.
+                    do
+                    {
+                        string physicalDescription;
+                        Console.WriteLine();
+                        Console.WriteLine($"Enter a physical description for {ourAnimals[i, 0]} (size, color, gender, weight, housebroken)");
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            animalPhysicalDescription = readResult;
+                            if (animalPhysicalDescription != "") // physical description can be blank, but not "?". If blank, we will update to "tbd" in the array.
+                            {
+                                validEntry = true;
+                                Console.WriteLine($"You've entered \"{animalPhysicalDescription}\" for {ourAnimals[i,0]}'s physical description.");
+                            }
+                            else
+                            {
+                                validEntry = false;
+                            }
+                        }
+                    } while (validEntry == false);
+
+                    ourAnimals[i, 4] = "Physical Description: " + animalPhysicalDescription;
+                }
+            }
+            
+            Console.WriteLine("Age and physical description fields are complete for all of our friends.");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
