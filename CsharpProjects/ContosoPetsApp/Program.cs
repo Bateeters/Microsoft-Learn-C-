@@ -400,7 +400,6 @@ do
                     // update the pet's physical description.
                     do
                     {
-                        string physicalDescription;
                         Console.WriteLine();
                         Console.WriteLine($"Enter a physical description for {ourAnimals[i, 0]} (size, color, gender, weight, housebroken)");
                         readResult = Console.ReadLine();
@@ -411,7 +410,7 @@ do
                             if (animalPhysicalDescription != "") // physical description can be blank, but not "?". If blank, we will update to "tbd" in the array.
                             {
                                 validEntry = true;
-                                Console.WriteLine($"You've entered \"{animalPhysicalDescription}\" for {ourAnimals[i,0]}'s physical description.");
+                                Console.WriteLine($"You've entered \"{animalPhysicalDescription}\" for {ourAnimals[i,0]}'s physical description.\n");
                             }
                             else
                             {
@@ -423,7 +422,7 @@ do
                     ourAnimals[i, 4] = "Physical Description: " + animalPhysicalDescription;
                 }
             }
-            
+
             Console.WriteLine("Age and physical description fields are complete for all of our friends.");
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
@@ -431,7 +430,39 @@ do
 
         case "4":
             // Ensure animal nicknames and personality are complete
-            Console.WriteLine("Challenge Project - Please check back soon to see progress.");
+            for (int i = 0; i < maxPets; i++)
+            {
+                if (ourAnimals[i, 0] != "ID #: " && ourAnimals[i, 3] == "Nickname: ")
+                {
+                    bool validEntry = false;
+                    
+                    // update the pet's nickname.
+                    do
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine($"Enter a nickname for {ourAnimals[i, 0]}");
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            animalNickname = readResult;
+                            if (animalNickname != "")
+                            {
+                                validEntry = true;
+                                Console.WriteLine($"You've entered \"{animalNickname}\" for {ourAnimals[i,0]}'s nickname.\n");
+                            }
+                            else
+                            {
+                                validEntry = false;
+                            }
+                        }
+                    } while (validEntry == false);
+
+                    ourAnimals[i, 3] = "Nickname: " + animalNickname;
+                }
+            }
+            
+
             Console.WriteLine("Press the Enter key to continue.");
             readResult = Console.ReadLine();
             break;
