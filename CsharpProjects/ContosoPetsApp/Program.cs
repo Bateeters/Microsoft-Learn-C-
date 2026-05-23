@@ -460,6 +460,35 @@ do
 
                     ourAnimals[i, 3] = "Nickname: " + animalNickname;
                 }
+
+                if (ourAnimals[i,0] != "ID #: " && ourAnimals[i, 5] == "Personality: ")
+                {
+                    bool validEntry = false;
+
+                    // update the pet's personality description.
+                    do
+                    {
+                        Console.WriteLine();
+                        Console.WriteLine($"Enter a personality description for ID #: {ourAnimals[i,0]} (likes or dislikes, tricks, energy level)");
+                        readResult = Console.ReadLine();
+
+                        if (readResult != null)
+                        {
+                            animalPersonalityDescription = readResult;
+                            if (animalPersonalityDescription != "")
+                            {
+                                validEntry = true;
+                                Console.WriteLine($"You've entered \"{animalPersonalityDescription}\" for {ourAnimals[i,0]}'s personality description.\n");
+                            }
+                            else
+                            {
+                                validEntry = false;
+                            }
+                        }
+                    } while (validEntry == false);
+
+                    ourAnimals[i, 5] = "Personality: " + animalPersonalityDescription;
+                }
             }
             
 
