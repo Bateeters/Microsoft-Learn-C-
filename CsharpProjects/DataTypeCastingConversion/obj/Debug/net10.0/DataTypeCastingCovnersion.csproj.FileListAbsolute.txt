@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\bin\Debug\net10.0\DataTypeCastingCovnersion.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\bin\Debug\net10.0\DataTypeCastingCovnersion.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\bin\Debug\net10.0\DataTypeCastingCovnersion.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\bin\Debug\net10.0\DataTypeCastingCovnersion.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\bin\Debug\net10.0\DataTypeCastingCovnersion.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\refint\DataTypeCastingCovnersion.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\DataTypeCastingCovnersion.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\DataTypeCastingConversion\obj\Debug\net10.0\ref\DataTypeCastingCovnersion.dll
