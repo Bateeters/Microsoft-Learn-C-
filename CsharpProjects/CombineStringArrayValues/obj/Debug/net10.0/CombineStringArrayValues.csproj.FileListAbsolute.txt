@@ -1,0 +1,15 @@
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.AssemblyInfoInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.AssemblyInfo.cs
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.csproj.CoreCompileInputs.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.sourcelink.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\bin\Debug\net10.0\CombineStringArrayValues.exe
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\bin\Debug\net10.0\CombineStringArrayValues.deps.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\bin\Debug\net10.0\CombineStringArrayValues.runtimeconfig.json
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\bin\Debug\net10.0\CombineStringArrayValues.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\bin\Debug\net10.0\CombineStringArrayValues.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\refint\CombineStringArrayValues.dll
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.pdb
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\CombineStringArrayValues.genruntimeconfig.cache
+C:\Users\brian\OneDrive\Desktop\Microsoft Learn C#\csharpprojects\CombineStringArrayValues\obj\Debug\net10.0\ref\CombineStringArrayValues.dll
