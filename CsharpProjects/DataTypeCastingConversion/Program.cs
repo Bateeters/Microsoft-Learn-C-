@@ -64,7 +64,7 @@ Console.WriteLine(value2);
 string name = "Bob";
 Console.WriteLine(int.Parse(name)); // This will throw an exception because "Bob" cannot be parsed as an int
 */
-string value = "102";
+string value = "bad";
 int result = 0;
 if (int.TryParse(value, out result))
 {
@@ -74,4 +74,8 @@ else
 {
     Console.WriteLine("Unable to report the measurement.");
 }
-Console.WriteLine($"Measurement (w/ offset): {50 + result}"); // result is still usable outside the if-else statement because it was declared outside of it.
+
+if (result > 0)
+{
+    Console.WriteLine($"Measurement (w/ offset): {50 + result}"); // result is still usable outside the if-else statement because it was declared outside of it.
+}

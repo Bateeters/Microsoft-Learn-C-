@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DataTypeCastingCovnersion")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2300748442282715b928161ccbc01896c53df2f2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7a0b867d67b81a6c48b2623a1748bbfbe59beb4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DataTypeCastingCovnersion")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DataTypeCastingCovnersion")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
