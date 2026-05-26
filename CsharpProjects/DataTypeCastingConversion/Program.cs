@@ -36,7 +36,16 @@ string message = first.ToString() + second.ToString();
 Console.WriteLine(message);
 */
 
+/*
 string first = "5";
 string second = "7";
 int sum = int.Parse(first) + int.Parse(second);
 Console.WriteLine(sum);
+// Can also use TryParse for a saver conversion that doesn't throw an exception if the string is not a valid int.
+*/
+
+string value1 = "5";
+string value2 = "7";
+int result = Convert.ToInt32(value1) * Convert.ToInt32(value2);
+Console.WriteLine(result);
+// Convert class is best for converting fractional numbers into whole numbers (int) because it rounds up the way you would expect.
