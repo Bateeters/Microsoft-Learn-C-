@@ -52,8 +52,26 @@ Console.WriteLine(result);
 // Convert class is best for converting fractional numbers into whole numbers (int) because it rounds up the way you would expect.
 */
 
+/*
 int value = (int)1.5m; // casting truncates
 Console.WriteLine(value);
 
 int value2 = Convert.ToInt32(1.5m); // Converting rounds up
 Console.WriteLine(value2);
+*/
+
+/*
+string name = "Bob";
+Console.WriteLine(int.Parse(name)); // This will throw an exception because "Bob" cannot be parsed as an int
+*/
+string value = "102";
+int result = 0;
+if (int.TryParse(value, out result))
+{
+    Console.WriteLine($"Measurement: {result}");
+}
+else
+{
+    Console.WriteLine("Unable to report the measurement.");
+}
+Console.WriteLine($"Measurement (w/ offset): {50 + result}"); // result is still usable outside the if-else statement because it was declared outside of it.
